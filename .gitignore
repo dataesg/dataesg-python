@@ -1,0 +1,8 @@
+*.pyc
+*.zip
+
+/dataesg/__pychache__
+/dataesg.egg-info
+/dist
+venv
+

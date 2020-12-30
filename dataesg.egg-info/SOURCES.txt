@@ -1,0 +1,15 @@
+README.md
+setup.cfg
+setup.py
+dataesg/__init__.py
+dataesg/api_config.py
+dataesg/api_init.py
+dataesg/connection.py
+dataesg/data.py
+dataesg/database.py
+dataesg/get.py
+dataesg.egg-info/PKG-INFO
+dataesg.egg-info/SOURCES.txt
+dataesg.egg-info/dependency_links.txt
+dataesg.egg-info/requires.txt
+dataesg.egg-info/top_level.txt

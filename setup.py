@@ -4,6 +4,7 @@ INSTALL_REQUIRES = [
     'pandas >= 0.14',
     'numpy >= 1.8',
     'requests >= 2.7.0',
+    'matplotlib >= 3.1.3'
 ]
 
 classifiers=[
@@ -21,14 +22,14 @@ classifiers=[
 setup(
     name='dataesg',
     packages=['dataesg'],
-    version='0.0.1',
+    version='0.0.2',
     description='Package for dataesg data access',
     Long_description=open('README.md').read(), 
     author='DATAESG',
     author_email='hello@dataesg.com',
     license='MIT',
     url = 'https://github.com/dataesg/dataesg-python',
-    download_url = 'https://github.com/dataesg/dataesg-python/archive/v_001.tar.gz',
+    download_url = 'https://github.com/dataesg/dataesg-python/archive/v_002.tar.gz',
     keywords=['dataesg', 'data', 'api'],
     classifiers=classifiers,
     install_requires=INSTALL_REQUIRES,
